@@ -1,5 +1,4 @@
-
-    import java.util.*;
+import java.util.*;
 public class Assign1
 {
     static int majelem(int arr[],int n)
